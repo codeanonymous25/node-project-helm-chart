@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  bmi-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-10-22T13:06:52.136561728Z"
+    description: Node BMI app with Prometheus metrics
+    digest: e644319d59b3d7a7c7c81bab27a2b3f0af8682c464722790a1fd9c06b6cdb477
+    keywords:
+    - node
+    - express
+    - prometheus
+    - openshift
+    name: bmi-app
+    type: application
+    urls:
+    - https://codeanonymous25.github.io/node-project-helm-chart/bmi-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-22T13:06:52.132078868Z"
